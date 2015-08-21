@@ -1,9 +1,9 @@
 {
     "ndk_module_path" :[
-        "/Users/niteluo/Projects/2dx",
-        "/Users/niteluo/Projects/2dx/cocos/prebuilt-mk",
-        "/Users/niteluo/Projects/2dx/cocos",
-        "/Users/niteluo/Projects/2dx/external"
+        "<replace_with_COCOS2D-X_ROOT>",
+        "<replace_with_COCOS2D-X_ROOT>/cocos/prebuilt-mk",
+        "<replace_with_COCOS2D-X_ROOT>/cocos",
+        "<replace_with_COCOS2D-X_ROOT>/external"
     ],
     "copy_resources": [
         {
