@@ -1,0 +1,14 @@
+{
+    "ndk_module_path" :[
+        "/Users/niteluo/Projects/2dx",
+        "/Users/niteluo/Projects/2dx/cocos/prebuilt-mk",
+        "/Users/niteluo/Projects/2dx/cocos",
+        "/Users/niteluo/Projects/2dx/external"
+    ],
+    "copy_resources": [
+        {
+            "from": "../Resources",
+            "to": ""
+        }
+    ]
+}
