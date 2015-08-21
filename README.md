@@ -5,6 +5,8 @@ This is a template project which you can use with prebuilt cocos2d-x libraries.
 
 It works with cocos2d-x repo and cocos2d-x 3.8
 
+Before using this template, you can follow [this guide](docs/create_prebuilt.md) to generate prebuilt cocos2d-x libs
+
 ## Notice
 * Currently only iOS and android project works
 
