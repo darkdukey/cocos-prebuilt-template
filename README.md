@@ -1,7 +1,8 @@
-# Cocos2d-x template projects for prebuilt lib
+# Cocos2d-x templates for prebuilt lib
 
 ## Intro
 This is a template project which you can use with prebuilt cocos2d-x libraries.
+
 It works with cocos2d-x repo and cocos2d-x 3.8
 
 ## Notice
