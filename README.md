@@ -14,6 +14,7 @@ Before using this template, you can follow [this guide](docs/create_prebuilt.md)
 ### For iOS
 Set COCOS2DX_ROOT environment variables for xcode
 ![](docs/xcode_path_setup.png)
+> You should restart Xcode after this change.
 
 ### For Android
 Update `build_cfg.json` and replace <replace_with_COCOS2D-X_ROOT> with path to your cocos2d-x engine
